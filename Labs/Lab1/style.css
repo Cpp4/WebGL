@@ -1,0 +1,76 @@
+#header
+{
+    
+    font-weight: bolder;
+    font-size:x-large;
+    background-color: rgb(255, 255, 255);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: rgba(0 , 255 , 255 , 0.25);
+    text-align: center;
+}
+#body
+{
+    background-image:url("https://i.pinimg.com/originals/45/22/f9/4522f988c5632ae6b8f686059cc0b97c.jpg");
+    align-items:center;
+    
+
+}
+#form
+{
+    background-color: rgba(200, 145, 241 , 0.5);
+    margin-left: 37%;
+    margin-right: 30%;
+    margin-top: 1%;
+    align-items: center;
+    text-align: center;
+    width:300px;
+    height:400px
+    
+    
+
+}
+
+#Name
+{
+    margin : 3%
+}
+
+#Phone
+{
+    margin : 3%
+}
+
+#Email
+{
+    margin-top: 3%;
+    margin-right: 5%;
+    margin-bottom:3%
+}
+#Salary
+{
+    margin:3%
+}
+
+#Register
+{   margin-top: 30%;
+    background-color: rgba(180, 254, 254,0.5);
+    width:20%
+}
+
+#Pass
+{
+    margin-top: 3%;
+    margin-right: 7%;
+    margin-bottom:3%
+}
+#City
+{   margin-top: 3%;
+    margin-left:4.5% ;
+}
+
+
+#Country
+{
+    margin-right:3.8%;
+    margin-top:4.5%
+}
